@@ -7,14 +7,10 @@ import UIKit
 
 extension UIColor {
     
-    convenience public init (R: CGFloat, G: CGFloat, B: CGFloat, alpha: CGFloat) {
+    convenience public init (R: CGFloat, G: CGFloat, B: CGFloat, alpha: CGFloat = 1) {
         self.init(red: R/255, green: G/255, blue: B/255, alpha: alpha)
     }
-    
-    convenience public init (R: CGFloat, G: CGFloat, B: CGFloat) {
-        self.init(red: R/255, green: G/255, blue: B/255, alpha: 1)
-    }
-    
+        
     //Xcode Pencils colors:
     
     open class var Licorice: UIColor {
