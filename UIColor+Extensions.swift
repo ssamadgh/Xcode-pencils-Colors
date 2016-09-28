@@ -7,10 +7,17 @@ import UIKit
 
 extension UIColor {
     
+    /**
+     Initializes and returns a color object using the specified opacity and RGB component values.
+     - Parameter R: Abbreviation of red, this parameter accebt value from 0 to 255.
+     - Parameter G: Abbreviation of green, this parameter accebt value from 0 to 255.
+     - Parameter B: Abbreviation of blue, this parameter accebt value from 0 to 255.
+     - Parameter alpha: The opacity value of the color object, specified as a value from 0.0 to 1.0.
+     */
     convenience public init (R: CGFloat, G: CGFloat, B: CGFloat, alpha: CGFloat = 1) {
         self.init(red: R/255, green: G/255, blue: B/255, alpha: alpha)
     }
-        
+    
     //Xcode Pencils colors:
     
     open class var Licorice: UIColor {
