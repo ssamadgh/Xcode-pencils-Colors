@@ -20,148 +20,148 @@ extension UIColor {
     
     //Xcode Pencils colors:
     
-    open class var Licorice: UIColor {
+    open class var licorice: UIColor {
         return UIColor(R: 0, G: 0, B: 0)
     }
-    open class var Lead: UIColor {
+    open class var lead: UIColor {
         return UIColor(R: 25, G: 25, B: 25)
     }
-    open class var Tungsten: UIColor {
+    open class var tungsten: UIColor {
         return UIColor(R: 51, G: 51, B: 51)
     }
-    open class var Iron: UIColor {
+    open class var iron: UIColor {
         return UIColor(R: 76, G: 76, B: 76)
     }
-    open class var Steel: UIColor {
+    open class var steel: UIColor {
         return UIColor(R: 102, G: 102, B: 102)
     }
-    open class var Tin: UIColor {
+    open class var tin: UIColor {
         return UIColor(R: 127, G: 127, B: 127)
     }
-    open class var Nickel: UIColor {
+    open class var nickel: UIColor {
         return UIColor(R: 128, G: 128, B: 128)
     }
-    open class var Aluminum: UIColor {
+    open class var aluminum: UIColor {
         return UIColor(R: 153, G: 153, B: 153)
     }
-    open class var Magnesium: UIColor {
+    open class var magnesium: UIColor {
         return UIColor(R: 179, G: 179, B: 179)
     }
-    open class var Silver: UIColor {
+    open class var silver: UIColor {
         return UIColor(R: 204, G: 204, B: 204)
     }
-    open class var Mercury: UIColor {
+    open class var mercury: UIColor {
         return UIColor(R: 230, G: 230, B: 230)
     }
-    open class var Snow: UIColor {
+    open class var snow: UIColor {
         return UIColor(R: 255, G: 255, B: 255)
     }
-    open class var Cayenne: UIColor {
+    open class var cayenne: UIColor {
         return UIColor(R: 128, G: 0, B: 0)
     }
-    open class var Mocha: UIColor {
+    open class var mocha: UIColor {
         return UIColor(R: 128, G: 64, B: 0)
     }
-    open class var Asparagus: UIColor {
+    open class var asparagus: UIColor {
         return UIColor(R: 128, G: 128, B: 0)
     }
-    open class var Fern: UIColor {
+    open class var fern: UIColor {
         return UIColor(R: 64, G: 128, B: 0)
     }
-    open class var Clover: UIColor {
+    open class var clover: UIColor {
         return UIColor(R: 0, G: 128, B: 0)
     }
-    open class var Moss: UIColor {
+    open class var moss: UIColor {
         return UIColor(R: 0, G: 128, B: 64)
     }
-    open class var Teal: UIColor {
+    open class var teal: UIColor {
         return UIColor(R: 0, G: 128, B: 128)
     }
-    open class var Ocean: UIColor {
+    open class var ocean: UIColor {
         return UIColor(R: 0, G: 64, B: 128)
     }
-    open class var Midnight: UIColor {
+    open class var midnight: UIColor {
         return UIColor(R: 0, G: 0, B: 128)
     }
-    open class var Eggplant: UIColor {
+    open class var eggplant: UIColor {
         return UIColor(R: 64, G: 0, B: 128)
     }
-    open class var Plum: UIColor {
+    open class var plum: UIColor {
         return UIColor(R: 128, G: 0, B: 128)
     }
-    open class var Maroon: UIColor {
+    open class var maroon: UIColor {
         return UIColor(R: 128, G: 0, B: 64)
     }
-    open class var Maraschino: UIColor {
+    open class var maraschino: UIColor {
         return UIColor(R: 255, G: 0, B: 0)
     }
-    open class var Tangerine: UIColor {
+    open class var tangerine: UIColor {
         return UIColor(R: 255, G: 128, B: 0)
     }
-    open class var Lemon: UIColor {
+    open class var lemon: UIColor {
         return UIColor(R: 255, G: 255, B: 0)
     }
-    open class var Lime: UIColor {
+    open class var lime: UIColor {
         return UIColor(R: 128, G: 255, B: 0)
     }
-    open class var Spring: UIColor {
+    open class var spring: UIColor {
         return UIColor(R: 0, G: 255, B: 0)
     }
-    open class var SeaFoam: UIColor {
+    open class var seaFoam: UIColor {
         return UIColor(R: 0, G: 255, B: 128)
     }
-    open class var Turquoise: UIColor {
+    open class var turquoise: UIColor {
         return UIColor(R: 0, G: 255, B: 255)
     }
-    open class var Aqua: UIColor {
+    open class var aqua: UIColor {
         return UIColor(R: 0, G: 128, B: 255)
     }
-    open class var Blueberry: UIColor {
+    open class var blueberry: UIColor {
         return UIColor(R: 0, G: 0, B: 255)
     }
-    open class var Grape: UIColor {
+    open class var grape: UIColor {
         return UIColor(R: 128, G: 0, B: 255)
     }
-    open class var Magenta: UIColor {
+    open class var magenta: UIColor {
         return UIColor(R: 255, G: 0, B: 255)
     }
-    open class var Strawberry: UIColor {
+    open class var strawberry: UIColor {
         return UIColor(R: 255, G: 0, B: 128)
     }
-    open class var Salmon: UIColor {
+    open class var salmon: UIColor {
         return UIColor(R: 255, G: 102, B: 102)
     }
-    open class var Cantaloupe: UIColor {
+    open class var cantaloupe: UIColor {
         return UIColor(R: 255, G: 204, B: 102)
     }
-    open class var Banana: UIColor {
+    open class var banana: UIColor {
         return UIColor(R: 255, G: 255, B: 102)
     }
-    open class var Honeydrew: UIColor {
+    open class var honeydrew: UIColor {
         return UIColor(R: 204, G: 255, B: 102)
     }
-    open class var Flora: UIColor {
+    open class var flora: UIColor {
         return UIColor(R: 102, G: 255, B: 102)
     }
-    open class var Spindrift: UIColor {
+    open class var spindrift: UIColor {
         return UIColor(R: 102, G: 255, B: 204)
     }
-    open class var Ice: UIColor {
+    open class var ice: UIColor {
         return UIColor(R: 102, G: 255, B: 255)
     }
-    open class var Sky: UIColor {
+    open class var sky: UIColor {
         return UIColor(R: 102, G: 204, B: 255)
     }
-    open class var Orchid: UIColor {
+    open class var orchid: UIColor {
         return UIColor(R: 102, G: 102, B: 255)
     }
-    open class var Lavender: UIColor {
+    open class var lavender: UIColor {
         return UIColor(R: 204, G: 102, B: 255)
     }
-    open class var Bubblegum: UIColor {
+    open class var bubblegum: UIColor {
         return UIColor(R: 255, G: 102, B: 255)
     }
-    open class var Carnation: UIColor {
+    open class var carnation: UIColor {
         return UIColor(R: 255, G: 111, B: 207)
     }
 }
